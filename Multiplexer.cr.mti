@@ -1,0 +1,15 @@
+H:/SystemVerilog/Practice/testbench_for_mux.sv {1 {vlog -work work -vopt -sv -stats=none H:/SystemVerilog/Practice/testbench_for_mux.sv
+Model Technology ModelSim SE-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+-- Compiling module testbench_for_mux
+
+Top level modules:
+	testbench_for_mux
+
+} {} {}} H:/SystemVerilog/Practice/mux1.sv {1 {vlog -work work -vopt -sv -stats=none H:/SystemVerilog/Practice/mux1.sv
+Model Technology ModelSim SE-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+-- Compiling module mux1
+
+Top level modules:
+	mux1
+
+} {} {}}
